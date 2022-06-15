@@ -123,3 +123,4 @@ mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) >
 ||fbcdn.net^$stealth
 ||youtube.com/api/stats/atr
 ||youtube.com/api/stats/atr
+||app.appsflyer.com^$domain=app.appsflyer.com
