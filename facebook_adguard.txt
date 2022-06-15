@@ -1,7 +1,6 @@
 
 ||apps.facebook.com
 ||connect.facebook.net
-||facebook.com
 ||fbcdn.com
 ||fbsbx.com
 ||fbcdn.net
@@ -10,14 +9,6 @@
 ||s-static.ak.facebook.com
 ||static.ak.connect.facebook.com
 ||static.ak.fbcdn.net
-||www.connect.facebook.net
-||www.facebook.com
-||www.fbcdn.com
-||www.fbcdn.net
-||www.graph.facebook.com
-||www.login.facebook.com
-||www.s-static.ak.facebook.com
-||www.static.ak.connect.facebook.com
 ||www.static.ak.fbcdn.net
 ||0-edge-chat.facebook.com
 ||1-edge-chat.facebook.com
@@ -300,7 +291,6 @@
 ||l.facebook.com
 ||liverail.c10r.facebook.com
 ||lm.facebook.com
-||m.facebook.com
 ||mqtt.c10r.facebook.com
 ||mqtt.vvv.facebook.com
 ||pixel.facebook.com
@@ -806,11 +796,9 @@
 ||connect.facebook.net.edgekey.net
 ||ct-m-fbx.fbsbx.com
 ||facebook-web-clients.appspot.com
-||fb.me
 ||fbcdn-profile-a.akamaihd.net
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
-||fb.com
 ||newsroom.fb.com
 ||investor.fb.com
 ||scontent-amt2-1.xx.fbcdn.net
