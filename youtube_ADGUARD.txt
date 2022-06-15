@@ -3,7 +3,6 @@
 # Last updated: 15/JUN/2022
 
 
-||youtube.com^$app=com.google.android.youtube
 ||googlevideo.com^$app=com.google.android.youtube
 ||r3---sn-o097znlk.googlevideo.com^$app=com.google.android.youtube
 ||r5---sn-n4v7knlk.googlevideo.com^$app=com.google.android.youtube
@@ -436,6 +435,4 @@
 ||r4---sn-t0a7ln7d.googlevideo.com
 ||r5---sn-n4v7sn7s.googlevideo.com
 ||r6---sn-n4v7sn7l.googlevideo.com
-||ytimg.com^
-||youtubei.googleapis.com^
 ||youtube-nocookie.com^
