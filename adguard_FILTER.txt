@@ -21,8 +21,6 @@ https://www.solidshare.net/
 youtube.com###right-container
 @@||bj-share.info^$important,document
 @@||app.tagplus.com.br^$important,document
-@@||device-local-5932c0d1-983f-4eb4-9d3c-947bd1454d51.remotewd.com^$important,document
-@@||192.168.0.120^$important,document
 mangalivre.net##div.add-to-homescreen-wrapper:nth-child(10) > div.add-to-homescreen-container
 mangalivre.net###wraper > div.container > div:nth-child(3) > div.container
 mangalivre.net###chapter-list > div:first-child > div.container
