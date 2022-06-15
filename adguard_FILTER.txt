@@ -40,10 +40,11 @@ mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) >
 ###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(56) > div.vignette-content > div:first-child > iframe
 @@||menorpreco.notaparana.pr.gov.br^$important,document
 @@||shopee.com.br/api/v2/item/get_ratings?filter=0$app=chrome.exe
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-vignette:nth-child(3) > div.vignette-content > h3:last-child
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(8) > div.vignette-content > h3:last-child
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(16) > div.vignette-content > h3:last-child
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:last-child > div.vignette-content > h3:last-child
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(24) > div.vignette-content > h3:last-child
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(32) > div.vignette-content > h3:last-child
-mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(40) > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-vignette:nth-child(3) > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(8) > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(16) > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:last-child > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(24) > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(32) > div.vignette-content > h3:last-child
+||mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(40) > div.vignette-content > h3:last-child
+||mangalivre.net/
