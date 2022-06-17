@@ -6,7 +6,6 @@
 ||edge-mqtt.facebook.com^$app=com.instagram.android
 ||scontent-gig2-1.xx.fbcdn.net^$app=com.instagram.android
 ||rr2---sn-gxqxuxaxn0a-hb4l.googlevideo.com^$app=com.google.android.youtube
-
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(8) > div.vignette-content > div:first-child > iframe
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(40) > div.vignette-content > div:first-child > iframe
 mangalivre.net###reader-wrapper > div.comments-wrapper:nth-child(7) > div.content-wrapper:nth-child(2) > div.content-container > div.comments-container.content > div.comments:last-child > div.clear-fix:first-child > iframe
@@ -45,7 +44,6 @@ https://www.solidshare.net/
 youtube.com###right-container
 @@||bj-share.info^$important,document
 @@||app.tagplus.com.br^$important,document
-@@||device-local-5932c0d1-983f-4eb4-9d3c-947bd1454d51.remotewd.com^$important,document
 @@||192.168.0.120^$important,document
 mangalivre.net##div.add-to-homescreen-wrapper:nth-child(10) > div.add-to-homescreen-container
 mangalivre.net###wraper > div.container > div:nth-child(3) > div.container
@@ -56,7 +54,6 @@ mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) >
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(32) > div.vignette-content > div:first-child > iframe
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(48) > div.vignette-content > div:first-child > iframe
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(72) > div.vignette-content > div:first-child > iframe
-
 ||firebaseinstallations.googleapis.com^$app=com.google.android.youtube
 ||scontent.fmgf11-1.fna.fbcdn.net^$third-party
 ||connect.facebook.net^$app=com.instagram.android
