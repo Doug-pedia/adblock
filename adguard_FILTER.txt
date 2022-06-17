@@ -8,11 +8,11 @@
 ||rr2---sn-gxqxuxaxn0a-hb4l.googlevideo.com^$app=com.google.android.youtube
 
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(8) > div.vignette-content > div:first-child > iframe
-###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(40) > div.vignette-content > div:first-child > iframe
-###reader-wrapper > div.comments-wrapper:nth-child(7) > div.content-wrapper:nth-child(2) > div.content-container > div.comments-container.content > div.comments:last-child > div.clear-fix:first-child > iframe
-###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(24) > div.vignette-content > div:first-child > iframe
-###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(56) > div.vignette-content > div:first-child > iframe
-###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(64) > div.vignette-content > div:first-child > iframe
+mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(40) > div.vignette-content > div:first-child > iframe
+mangalivre.net###reader-wrapper > div.comments-wrapper:nth-child(7) > div.content-wrapper:nth-child(2) > div.content-container > div.comments-container.content > div.comments:last-child > div.clear-fix:first-child > iframe
+mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(24) > div.vignette-content > div:first-child > iframe
+mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(56) > div.vignette-content > div:first-child > iframe
+mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-continue:nth-child(4) > div.manga-vignette:nth-child(64) > div.vignette-content > div:first-child > iframe
 @@||menorpreco.notaparana.pr.gov.br^$important,document
 @@||shopee.com.br/api/v2/item/get_ratings?filter=0$app=chrome.exe
 mangalivre.net###reader-wrapper > div.reader-content.vertical.fit:nth-child(4) > div.manga-vignette:nth-child(3) > div.vignette-content > h3:last-child
